@@ -1,0 +1,5 @@
+# Файлы, игнорируемые по умолчанию
+/shelf/
+/workspace.xml
+/data
+/models
